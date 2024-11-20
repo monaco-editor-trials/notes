@@ -13,3 +13,11 @@ Textmate [Language Grammars](https://macromates.com/manual/en/language_grammars)
 ### 📍 Textmate Themes
 
 [Textmate Themes](https://macromates.com/manual/en/themes) are used to define the color scheme for the syntax highlighting. Language grammars and themes are used together to provide a **rich editing experience**.
+
+## 📍 Monarch
+
+[Monarch](https://microsoft.github.io/monaco-editor/monarch.html) is the syntax highlighting system used in Monaco editor.
+
+## 📍 ANTLR
+
+[ANTLR](https://www.antlr.org/) (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks.
