@@ -8,6 +8,10 @@
 
 [Data Definition Language](https://en.wikipedia.org/wiki/Data_definition_language) (DDL) is a subset of SQL used to define the structure of a database, including tables, columns, indexes, and constraints.
 
+### 📍 LSP
+
+[Language Server Protocol](https://microsoft.github.io/language-server-protocol/) (LSP) is a protocol used to enable rich language support in code editors and IDEs. It defines the communication between a language server and a client, allowing the client to request information about the code, such as code completion, hover information, and diagnostics.
+
 ## 📍 Textmate
 
 [Textmate](https://github.com/textmate/textmate) is a powerful text editor for code, markup, and prose. It supports syntax highlighting, auto-completion, and snippets. It also has a built-in terminal, Git integration, and a file browser.
