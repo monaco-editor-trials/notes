@@ -8,4 +8,8 @@
 
 ### 📍 Textmate Grammars
 
-WIP...
+Textmate [Language Grammars](https://macromates.com/manual/en/language_grammars) are used to define the **syntax highlighting** rules for a language. [See](https://macromates.com/textmate/manual/) for more information.
+
+### 📍 Textmate Themes
+
+[Textmate Themes](https://macromates.com/manual/en/themes) are used to define the color scheme for the syntax highlighting. Language grammars and themes are used together to provide a **rich editing experience**.
