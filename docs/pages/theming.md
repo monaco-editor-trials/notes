@@ -1,6 +1,8 @@
 # 🌈 Theming
 
-Monaco editor is native part of VS Code but they have own theming system. [Monarch](https://microsoft.github.io/monaco-editor/monarch.html) is the syntax highlighting system used in Monaco editor. We can't think theming wtihout syntax highlighting. In this case we can't use VS Code themes directly but if we provide the same syntax highlighting rules, we can align Monaco editor with VS Code themes.
+Monaco editor is native part of VS Code but they have own theming system. [Monarch](https://microsoft.github.io/monaco-editor/monarch.html) is the syntax highlighting system used in Monaco editor. We can't think theming without syntax highlighting. Also, we can't use VS Code themes directly but if we provide the same syntax highlighting rules, we can align Monaco editor with VS Code themes.
+
+> Yes, there are many themes available on the internet but you have to design all flows for theming and syntax highlighting to satisfy your expectations.
 
 ## 🎨 Theming
 
