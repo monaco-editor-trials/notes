@@ -2,3 +2,4 @@
 * [⚡ Quick Start](pages/quick-start.md)
 * [📜 Glossary](pages/glossary.md)
 * [🌈 Theming](pages/theming.md)
+* [🌟 Examples](pages/examples.md)
